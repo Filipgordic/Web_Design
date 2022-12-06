@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="001d45de-be46-4c0f-a07a-206d44f3bd52" name="Changes" comment="CSS change">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +22,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -57,6 +56,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.startup.tasks",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670356299852</updated>
       <workItem from="1670356303018" duration="194000" />
+      <workItem from="1670356521987" duration="262000" />
     </task>
     <task id="LOCAL-00001" summary="CSS change">
       <created>1670356324914</created>
@@ -87,5 +88,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="CSS change" />
     <option name="LAST_COMMIT_MESSAGE" value="CSS change" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
