@@ -7,34 +7,7 @@ html, body {
     color: #000;
 }
 
-body {
-    font-size: 1.4rem;
-    text-rendering: optimizeLegibility;
-}
 
-h1 {
-    font-size: 1.4rem;
-}
-
-p {
-    -ms-word-break: break-all;
-    word-break: break-all;
-    word-break: break-word;
-    -moz-hyphens: auto;
-    -webkit-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-}
-
-textarea {
-    resize: vertical;
-}
-/* changes textarea resizing from "both" (UA default) to vertical only */
-
-table { border-collapse: collapse; }
-td {
-    padding: .5rem;
-}
 
 img {
     border: none;
@@ -50,8 +23,4 @@ img {
     float: left;
     margin-right: 2rem;
     clear: left;
-}
-
-sub, sup {
-    line-height: 0;
 }
